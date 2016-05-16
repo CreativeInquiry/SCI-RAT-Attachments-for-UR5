@@ -12,7 +12,7 @@ All files are licensed under the [CC BY-SA 4.0 License](https://creativecommons.
 
 Here is a full list of all attachments in this repository so far:
 
-**1. Universal Mounts:**
+1. **Universal Mounts:**
   * Rod Adapter
   * Camera Mount
 2. **Electronics Platforms:**
