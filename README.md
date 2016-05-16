@@ -15,21 +15,21 @@ Here is a full list of all attachments in this repository so far:
 **1. Universal Mounts:**
   * Rod Adapter
   * Camera Mount
-**2. Electronics Platforms:**
+2. **Electronics Platforms:**
   * Breadboard Mount
   * Enclosed Arduino Cube
-**3. Googly Eyes:** 
+3. **Googly Eyes:** 
   * Googly Eye Double Mount 
   * Googly Eye Single Mount 
-**4. Tool Adapters:**
+4. **Tool Adapters:**
   * Ryobi Caulk Gun Adapter 
   * Silly String Adapter 
   * Tattoo Adapter 
-**5. Custom Hardware:**
+5. **Custom Hardware:**
   * Threading Machine 
   * Gripper Mount 
   * CV Effector
-**6. Body Parts:**
+6. **Body Parts:**
   * Finger Mount
   * Hand Mount 
   * Head Mount
