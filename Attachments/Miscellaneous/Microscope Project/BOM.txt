@@ -1,0 +1,17 @@
+[6x] Pololu Ball Caster with 3/8″ Metal Ball (1.99 USD)
+https://www.pololu.com/product/951
+
+[1x] 1/8 12x24 Clear Acrylic Sheet (15.76 USD)
+http://www.mcmaster.com/#8560k257/=13l12qk
+
+[1x] 1/4 12x24 Black Acrylic Sheet (37.60 USD)
+http://www.mcmaster.com/#8505k92/=13l12zb
+
+[10x] 4-40 Washer (0.01)
+https://www.fastenal.com/products/details/0110018?term=m3+washer&pageno=2
+
+[10x] 4-40 Nut (0.0728)
+https://www.fastenal.com/products/details/95805?term=4-40+screw&r=~|categoryl1:%22600000%20Fasteners%22|~%20~|categoryl2:%22600072%20Nuts%22|~%20~|categoryl3:%22608621%20Hex%20Nuts%22|~
+
+[10x] 4-40 Machine Screw 5/8in (0.0209)
+https://www.fastenal.com/products/details/0148793?term=4-40+screw+5%2F8&pageno=1
